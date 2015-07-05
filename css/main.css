@@ -1,0 +1,11 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+/* 讓 header內容在中間 */
+.navbar-collapse ul:first-child {
+	/*padding-left: 250px;*/
+}
+.content {
+	display: none;
+}
